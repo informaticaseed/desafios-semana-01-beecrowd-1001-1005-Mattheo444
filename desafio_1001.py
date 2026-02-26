@@ -10,5 +10,14 @@ você receberá "Presentation Error".
 """
 
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
+# Leitura dos dois valores inteiros
+A = int(input())
+B = int(input())
+
+# Cálculo da soma
+X = A + B
+
+# Exibição do resultado no formato solicitado
+print(f"X = {X}")
 
 # Escreva sua solução abaixo
